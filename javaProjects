@@ -1,1 +1,19 @@
+# Java Projects — Built While Learning DSA
 
+## About
+Real projects built after finishing each DSA module.
+No project is started before its module is complete.
+
+## Projects
+| #  | Project               | Concepts Used               | Unlock After      | Status |
+|----|-----------------------|-----------------------------|-------------------|--------|
+| 01 | Contact Book CLI      | Arrays, Strings, Search     | Arrays module     | ⬜     |
+| 02 | Browser History       | LinkedList, Stack           | LinkedList module | ⬜     |
+| 03 | Undo Redo System      | Stack, Command Pattern      | Stack module      | ⬜     |
+| 04 | Maze Solver           | Recursion, Backtracking     | Recursion module  | ⬜     |
+| 05 | File System Viewer    | Trees, DFS                  | Trees module      | ⬜     |
+| 06 | Social Graph          | Graphs, BFS/DFS             | Graphs module     | ⬜     |
+| 07 | Word Frequency Tool   | HashMap, Sorting            | Hashing module    | ⬜     |
+| 08 | Job Scheduler         | PriorityQueue, Heap         | Trees module      | ⬜     |
+| 09 | Student Result System | Sorting, Binary Search      | Sorting module    | ⬜     |
+| 10 | Mini Search Engine    | Trie, HashMap, BinarySearch | Full DSA          | ⬜     |
