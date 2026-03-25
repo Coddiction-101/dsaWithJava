@@ -8,6 +8,7 @@ Every file is hand-typed during or after the lecture.
 01_javaBasics/
 
 02_arrays/
+
 03_strings/
 04_linkedList/
 05_stackAndQueue/
