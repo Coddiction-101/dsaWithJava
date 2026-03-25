@@ -4,25 +4,6 @@
 All lecture code from Love Babbar's Full Placement DSA Series.
 Every file is hand-typed during or after the lecture.
 
-## Structure
-01_javaBasics/
-
-02_arrays/
-
-03_strings/
-
-04_linkedList/
-
-05_stackAndQueue/
-06_recursionAndBacktracking/
-07_trees/
-08_graphs/
-09_sorting/
-10_binarySearch/
-11_hashing/
-12_greedy/
-13_dynamicProgramming/
-
 ## Progress
 | Module                   | Status         | Lectures Done |
 |--------------------------|----------------|---------------|
@@ -39,7 +20,3 @@ Every file is hand-typed during or after the lecture.
 | Hashing                  | ⬜ Not Started  | 0 / 6         |
 | Greedy                   | ⬜ Not Started  | 0 / 6         |
 | Dynamic Programming      | ⬜ Not Started  | 0 / 15        |
-
-## Commit format
-[topic] ClassName — short description
-Example: [arrays] BubbleSort — O(n²) sort
